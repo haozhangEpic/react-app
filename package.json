@@ -36,7 +36,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://github.com/qq1635797644/react-app",
+  "homepage": "",
   "eslintConfig": {
     "extends": [
       "react-app",

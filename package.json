@@ -36,7 +36,11 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+<<<<<<< Updated upstream
   "homepage": "",
+=======
+  "homepage": "https://github.com/react-app",
+>>>>>>> Stashed changes
   "eslintConfig": {
     "extends": [
       "react-app",
